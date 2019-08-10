@@ -1,0 +1,17 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 966D-32A9
+
+ Directory of c:\
+
+01/13/2019  09:39 PM    <DIR>          dfirefox
+05/30/2018  03:29 AM    <DIR>          inetpub
+07/14/2017  10:30 PM    <DIR>          Intel
+07/20/2019  01:06 PM    <DIR>          Java testing
+04/11/2018  06:38 PM    <DIR>          PerfLogs
+08/10/2019  09:11 AM    <DIR>          Program Files
+06/28/2019  11:46 AM    <DIR>          Program Files (x86)
+02/02/2018  02:43 PM    <DIR>          SWSetup
+05/30/2018  01:34 AM    <DIR>          Users
+07/12/2019  03:59 PM    <DIR>          Windows
+               0 File(s)              0 bytes
+              10 Dir(s)  886,125,973,504 bytes free
