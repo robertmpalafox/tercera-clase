@@ -1,7 +1,9 @@
- Volume in drive C is Windows
- Volume Serial Number is 966D-32A9
+Volume in drive C is Windows
+Volume Serial Number is 966D-32A9
 
- Directory of c:\
+Directory of c:\
+
+Queda pendiente averiguar qué representa cada una de estas columnas.
 
 01/13/2019  09:39 PM    <DIR>          dfirefox
 05/30/2018  03:29 AM    <DIR>          inetpub
@@ -15,3 +17,7 @@
 07/12/2019  03:59 PM    <DIR>          Windows
                0 File(s)              0 bytes
               10 Dir(s)  886,125,973,504 bytes free
+
+Unos renglones y un comentario.
+Ver esto como si fuera una carta.
+
